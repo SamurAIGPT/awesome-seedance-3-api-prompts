@@ -7,6 +7,15 @@
 [![Stars](https://img.shields.io/github/stars/SamurAIGPT/awesome-seedance-3-api-prompts?style=social)](https://github.com/SamurAIGPT/awesome-seedance-3-api-prompts)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## Related Projects
+
+- [Seedance-3-API](https://github.com/Anil-matcha/Seedance-3-API) — companion developer project; API integration details are pending.
+- [awesome-seedance-2.5-api-prompts](https://github.com/Anil-matcha/awesome-seedance-2.5-api-prompts) — established Seedance prompt and API guide for the previous generation.
+- [Seedance-2.5-API](https://github.com/SamurAIGPT/Seedance-2.5-API) — Python wrapper for Seedance 2.5.
+- [Seedance-2-API](https://github.com/Anil-matcha/Seedance-2-API) — Python SDK for Seedance 2.x.
+- [seedance2.5-comfyui](https://github.com/Anil-matcha/seedance2.5-comfyui) — ComfyUI nodes and workflows for Seedance 2.5.
+- [seedance-2-generator](https://github.com/SamurAIGPT/seedance-2-generator) — open-source Seedance video generation app.
+
 ## Status
 
 Seedance 3 API access through MuAPI is being prepared. This repository collects prompt patterns and examples that can be adapted when the endpoint is available. It does **not** claim unannounced API features, limits, pricing, or request schemas. Check the [MuAPI Seedance 3 page](https://muapi.ai/seedance-3) and [Seedance-3-API](https://github.com/Anil-matcha/Seedance-3-API) for integration updates.
